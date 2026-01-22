@@ -1,0 +1,26 @@
+# Ambiente Virtual (NUNCA subir isto, tem milhares de ficheiros)
+.venv/
+venv/
+env/
+
+# Ficheiros do Python
+__pycache__/
+*.pyc
+
+# Dados (Gigantes)
+*.csv
+*.zip
+dataset/
+images/
+
+# Modelos Treinados (Gigantes)
+*.h5
+*.pth
+*.keras
+
+# Configurações do VS Code e Jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# Chaves de API
+kaggle.json
