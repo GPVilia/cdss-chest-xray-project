@@ -8,13 +8,9 @@ __pycache__/
 *.pyc
 
 # Dados (Gigantes)
-*.csv
-*.zip
-dataset/
 images/
 
 # Modelos Treinados (Gigantes)
-*.h5
 *.pth
 *.keras
 
